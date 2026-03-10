@@ -217,7 +217,6 @@ Voici les entités minimales attendues. Vous êtes libres d'enrichir le modèle 
 - Documentation Swagger générée et accessible via `/swagger-ui.html`
 - Collection Postman ou fichier `.http` avec tous les scénarios de test fonctionnels
 - Script SQL ou fichier `data.sql` pour le jeu de données de démonstration
-- Rapport technique (5-10 pages) : choix d'architecture, diagrammes UML (classes, sequence), difficultés rencontrées et solutions apportées
 
 ---
 
