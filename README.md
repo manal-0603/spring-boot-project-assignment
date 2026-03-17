@@ -1,16 +1,13 @@
-# Projet de Fin de Module — Spring Boot
-
 ## Système de Gestion de Réservation d'Espaces de Coworking
 
 **Master 2**
-**Module : Spring Boot**
 **Année universitaire 2025 – 2026**
 
 ---
 
 Chers étudiants,
 
-Dans le cadre du module **Spring Boot**, vous êtes amenés à réaliser ce projet de fin de module. Vous trouverez ci-dessous l'énoncé complet, le barème de notation ainsi qu'un **frontend React.js prêt à l'emploi** avec des données statiques. Votre mission consiste à développer le backend Spring Boot et à connecter vos API au frontend fourni. Une **démo en ligne** est disponible pour vous permettre de visualiser le résultat attendu. Lisez attentivement l'ensemble de ce document avant de commencer.
+Vous trouverez ci-dessous l'énoncé complet, le barème de notation ainsi qu'un **frontend React.js prêt à l'emploi** avec des données statiques. Votre mission consiste à développer le backend Spring Boot et à connecter vos API au frontend fourni. Une **démo en ligne** est disponible pour vous permettre de visualiser le résultat attendu. Lisez attentivement l'ensemble de ce document avant de commencer.
 
 Bon courage et bon développement !
 
